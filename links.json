@@ -298,5 +298,16 @@
         "link": "https://www.daiyangcheng.cn/"
       }
     ]
+  },
+  {
+    "avatar": "https://aiccrop.com/api/head/",
+    "name": "CircleCrop Blog",
+    "banner": "舟遥遥以轻飏，风飘飘而吹衣。",
+    "links": [
+      {
+        "name": "博客",
+        "link": "https://aiccrop.com/"
+      }
+    ]
   }
 ]
